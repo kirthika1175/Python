@@ -1,0 +1,8 @@
+num=input ('enter a number:)
+Sum=0
+for i in num:
+  Sum+=int (i) **3
+if sum ==int (num):
+  Print (' armstong')
+else:
+  Print ('not armstong') 
